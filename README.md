@@ -1,7 +1,7 @@
 # Googlebooks-Search app ....
 An application created using the MERN stack and allows users to search for books via the Google Books API. Search results are dynamically rendered in the UI and users have the option to save and/or delete books.
 * Walk through the App : 
-* ![Demo]https://drive.google.com/file/d/13X4hT3JcpjW7dE2f4ag6X2dAGcEp1FKX/view?usp=sharing()
+* ![Demo](https://drive.google.com/file/d/13X4hT3JcpjW7dE2f4ag6X2dAGcEp1FKX/view?usp=sharing)
 
 View the deployed application at:  https://google-books99.herokuapp.com/
 
